@@ -19,8 +19,8 @@ $game = new Game($con);
 require "classes/class.user.php";
 $user = new User($con);
 
-$molliekey['test'] = "test_kdVTdbwctPBxKxr9pcsmrjsAueNN2H";
-$molliekey['live'] = "live_Q3k294EmPmWH2ah3DDWdsqfESpnCW7";
+$molliekey['test'] = "";
+$molliekey['live'] = "";
 
 if (!session_id()) {
 	echo "Jouw browser ondersteund geen cookies of je hebt ze geblokkeerd. Zodoende kan je het spel niet spelen";
