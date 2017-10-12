@@ -1,0 +1,41 @@
+body {
+    background-color: #36393E;
+}
+.whitea {
+	color:white;
+	text-decoration: none;
+}
+.whitea:hover {
+	color:black;
+	text-decoration: underline;
+}
+.whitewow {
+	color:white;
+	text-decoration: underline;
+	font-weight: bold;
+}
+/*
+#guess {
+	background-color:white;
+	width: 50%;
+	margin-left: 25%;
+	padding: 15px;
+}
+/*
+
+/*
+@media screen and (max-device-width: 720px) {
+	#guess {
+		width: 80%;
+		margin-left: 10%;
+	}
+}
+*/
+	
+/*
+//CSS for the attempts, white on white is a little bot not very visible
+#attempts,#attempt {
+	background-color: #36393E;
+	color:#36393E;
+}
+*/
