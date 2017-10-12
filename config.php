@@ -7,7 +7,7 @@ ini_set("display_errors","On");
 
 $db_host = "localhost";
 $db_user = "khollander_mm";
-$db_pass = "mp8js7wz";
+$db_pass = "";
 $db_data = "khollander_mm";
 
 //$con = new mysqli($db_host,$db_user,$db_pass,$db_data);
